@@ -1,5 +1,5 @@
 # BLINKIT-POWERBI-Dashboard-Project
-Visually Stunning and eggective PowerBI Dashboard
+Visually Stunning and effective PowerBI Dashboard
 
 
 ##DataAnalysis-BLINKIT-POWERBI-Dashboard-Project
@@ -82,7 +82,7 @@ where supermarket Type 1 and Grocery having higher ratings in small sized outlet
   * We can see the **Snack foods** are sold very much in these periods after that **Fruits and vegetables** and of **Total Ratings of 17K**
   * With 598K+ sales in these years.
   * In the next page of visualizations we can see only three grocery store, supermarket  1 and 2 performed well.
-  * In these period The **Small sized Outlet** performed well compared to medium and high sozed outlets.
+  * In these period The **Small sized Outlet** performed well compared to medium and high sized outlets.
 
 ![Blinkit 1 16-20](https://github.com/user-attachments/assets/4c2a9274-e747-4e02-8d37-494df3d51675)
 ![Blinkit 2 16- 20](https://github.com/user-attachments/assets/9d7263d3-e430-49d3-b22b-92cc66f51013)
@@ -103,8 +103,8 @@ where supermarket Type 1 and Grocery having higher ratings in small sized outlet
    - In this segment **Fruits and Vegetables** are in a upper hand of sales with 957.
    - with total grocery sales **939.49K sales**
    - 26K overall ratings.
-   - 416 distinct item weight
-   - with small sized outlet sales of **444K** Sales
+   - 416 distinct item weight.
+   - with small sized outlet sales of **444K** Sales.
    - supermarket type 1 having huge **5.6K** ratings where Grocery Store Ratings with **1.1K**.
 
 ![Blinkit 1 outlet type ](https://github.com/user-attachments/assets/e0e78679-8a49-4929-a459-57379321dd73)
